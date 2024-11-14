@@ -17,4 +17,5 @@ public:
     void setHeight (double h);
 };
 
+
 #endif // RECTANGLE_H
